@@ -1,4 +1,4 @@
-- 👋 Hello Everyone, I’m @czapparolli, i'm Brazilian, living in Santo André, São Paulo. I working at Qintess. Nice to meet you.
+- 👋 Hello Everyone, I’m Caio Zapparolli, i'm Brazilian, living in Santo André, São Paulo. I working at Qintess. Nice to meet you.
 - 👀 I’m interested in make code and bugs
 - 🌱 I’m currently learning Java and C
 - 💞️ I’m looking to collaborate on Basic codes
